@@ -114,7 +114,7 @@ const Footer = () => {
           <Phone style={{ marginRight: "10px" }} /> +49 254 8547 8965
         </ContactItem>
         <ContactItem>
-          <MailOutline style={{ marginRight: "10px" }} />{" "}
+          <MailOutline style={{ marginRight: "10px" }} />
           contact@ancresnoires.com
         </ContactItem>
         <Payment src="https://i.ibb.co/Qfvn4z6/payment.png" />
