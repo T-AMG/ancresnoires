@@ -10,14 +10,13 @@ import ProductsList from "./ProductsList";
 const Home = () => {
   return (
     <div>
-      {/*<Announcement />
+      <Announcement />
       <Navbar />
       <Slider />
       <Categories />
       <Products />
       <Newsletter />
-          <Footer /> */}
-      <ProductsList />
+      <Footer />
     </div>
   );
 };
